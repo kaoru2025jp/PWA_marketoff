@@ -1,0 +1,9 @@
+{
+  "name": "STOCKOFF23",
+  "short_name": "STOCKOFF23",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#357ab7",
+  "lang": "ja"
+}
